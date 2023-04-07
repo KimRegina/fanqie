@@ -1,0 +1,5 @@
+# 表示包含 xxx.com 域名下所有链接
+- 'DOMAIN-SUFFIX,gameale.com,🎯 全球直连'
+
+# 表示包含这个xxxx域名关键词的所有网站链接
+# DOMAIN-KEYWORD,gameale
